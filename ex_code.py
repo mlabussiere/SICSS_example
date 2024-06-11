@@ -3,7 +3,7 @@ Examples git directory
 Created on Tue Jun  4 15:33:54 2024
 @author: mlabuss
 """
-print('Hello SICSS summer school')
+print('Hello SICSS summer school 2024!')
 
 
 
