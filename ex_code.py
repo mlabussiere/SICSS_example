@@ -5,6 +5,8 @@ Created on Tue Jun  4 15:33:54 2024
 """
 print('Hello SICSS summer school 2024!')
 
+5+5
+
 
 
 import random 
